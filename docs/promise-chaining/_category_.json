@@ -1,0 +1,8 @@
+{
+  "label": "Promise Chaining",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "El encadenamiento de promesas permite ejecutar múltiples promesas de manera secuencial, donde cada operación depende del resultado de la anterior, facilitando el control de flujos asíncronos complejos."
+  }
+}

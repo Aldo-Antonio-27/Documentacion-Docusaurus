@@ -1,0 +1,8 @@
+{
+  "label": "Promises",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Las promesas son un mecanismo en JavaScript para manejar operaciones asíncronas, permitiendo que el código siga ejecutándose mientras se espera el resultado de una operación futura."
+  }
+}

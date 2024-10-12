@@ -1,0 +1,8 @@
+{
+  "label": "Promise.all",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Promise.all permite ejecutar varias promesas en paralelo y retorna un único resultado cuando todas las promesas han sido resueltas o si alguna es rechazada."
+  }
+}

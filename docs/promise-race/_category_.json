@@ -1,0 +1,8 @@
+{
+  "label": "Promise.race",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Promise.race devuelve el resultado de la primera promesa que se resuelva o rechace entre varias, independientemente de las otras promesas en ejecución."
+  }
+}
