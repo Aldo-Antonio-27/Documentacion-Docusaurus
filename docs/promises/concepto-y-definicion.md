@@ -13,3 +13,5 @@ Las promesa facilita el control de flujos asíncronos, permitiendo que las opera
 - **Rechazada (`rejected`):** La operación ha fallado y la promesa proporciona un motivo o error.
 
 Este mecanismo es esencial para evitar la "pirámide de la perdición" (callback hell), un problema común en el uso excesivo de funciones de devolución de llamada anidadas.
+
+![Imagen Introducción](../../static/img/Imagen%20Tema%201.png)
