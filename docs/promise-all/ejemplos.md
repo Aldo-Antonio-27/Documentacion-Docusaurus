@@ -33,9 +33,7 @@ Promise.all([num1, num2])
 
 ### Ejecución:
 
-```
-La suma total es: 15
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%201.png)
 
 ---
 
@@ -66,9 +64,7 @@ Promise.all(promesasUsuarios)
 
 ### Ejecución:
 
-```
-Datos de usuarios obtenidos: [{ id: 1, nombre: 'Usuario1' }, { id: 2, nombre: 'Usuario2' }, { id: 3, nombre: 'Usuario3' }]
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%202.png)
 
 ---
 
@@ -99,9 +95,7 @@ Promise.all(promesasImagenes)
 
 ### Ejecución:
 
-```
-Resultados de carga de imágenes: ['Imagen foto1.jpg cargada.', 'Imagen foto2.jpg cargada.', 'Imagen foto3.jpg cargada.']
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%203.png)
 
 ---
 
@@ -136,9 +130,7 @@ Promise.all(promesasAPIs)
 
 ### Ejecución:
 
-```
-Respuestas de las APIs: ['Datos de api/usuarios', 'Datos de api/productos', 'Datos de api/ordenes']
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%204.png)
 
 ---
 
@@ -169,9 +161,7 @@ Promise.all(promesasArchivos)
 
 ### Ejecución:
 
-```
-Contenidos de los archivos: ['Contenido de archivo1.txt', 'Contenido de archivo2.txt', 'Contenido de archivo3.txt']
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%205.png)
 
 ---
 
@@ -203,9 +193,7 @@ Promise.all(promesasRespuestas)
 
 ### Ejecución:
 
-```
-Todas las respuestas recibidas: ['Respuesta 1 recibida después de ... ms.', 'Respuesta 2 recibida después de ... ms.', 'Respuesta 3 recibida después de ... ms.']
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%206.png)
 
 ---
 
@@ -236,9 +224,7 @@ Promise.all(promesasRecursos)
 
 ### Ejecución:
 
-```
-Resultados de los recursos: ['Datos de recurso1 obtenidos.', 'Datos de recurso2 obtenidos.', 'Datos de recurso3 obtenidos.']
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%207.png)
 
 ---
 
@@ -276,6 +262,4 @@ Promise.all(promesasOperaciones)
 
 ### Ejecución:
 
-```
-Error en la operación 2.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%203/Ejemplo%208.png)

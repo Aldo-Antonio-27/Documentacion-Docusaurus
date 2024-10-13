@@ -27,9 +27,7 @@ promesaSimple.then((resultado) => {
 
 ### Ejecución:
 
-```
-Promesa resuelta exitosamente después de 2 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%201.png)
 
 ---
 
@@ -63,9 +61,7 @@ promesaConRechazo
 
 ### Ejecución:
 
-```
-Operación fallida.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%202.png)
 
 ---
 
@@ -102,11 +98,7 @@ tareaAsincrona("Tarea 1", 1000)
 
 ### Ejecución:
 
-```
-Tarea 1 completada en 1 segundos.
-Tarea 2 completada en 2 segundos.
-Tarea 3 completada en 1 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%203.png)
 
 ---
 
@@ -136,12 +128,7 @@ Promise.all([tarea("Tarea 1", 1000), tarea("Tarea 2", 2000), tarea("Tarea 3", 15
 
 ### Ejecución:
 
-```
-Todas las tareas han sido completadas:
-Tarea 1 completada en 1 segundos.
-Tarea 3 completada en 1.5 segundos.
-Tarea 2 completada en 2 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%204.png)
 
 ---
 
@@ -182,9 +169,7 @@ Promise.all([
 
 ### Ejecución:
 
-```
-Error detectado: Tarea 2 falló después de 2 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%205.png)
 
 ---
 
@@ -213,9 +198,7 @@ Promise.race([tareaRapida("Tarea 1", 3000), tareaRapida("Tarea 2", 1000), tareaR
 
 ### Ejecución:
 
-```
-Primer resultado obtenido: Tarea 2 completada en 1 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%206.png)
 
 ---
 
@@ -257,10 +240,7 @@ comprobarNumero(7)
 
 ### Ejecución:
 
-```
-El número 4 es par.
-El número 7 es impar.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%207.png)
 
 ---
 
@@ -301,7 +281,4 @@ verificarCondicion(15)
 
 ### Ejecución:
 
-```
-Valor aceptado: 15
-El número es divisible entre 5.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%201/Ejemplo%208.png)

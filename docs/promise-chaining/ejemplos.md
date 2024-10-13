@@ -35,10 +35,7 @@ primeraPromesa
 
 ### Ejecución:
 
-```
-Primera promesa resuelta.
-Primera promesa resuelta. y Segunda promesa resuelta.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%201.png)
 
 ---
 
@@ -74,10 +71,7 @@ primeraPromesa
 
 ### Ejecución:
 
-```
-Primera promesa resuelta.
-Mensaje transformado: PRIMERA PROMESA RESUELTA.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%202.png)
 
 ---
 
@@ -126,10 +120,7 @@ verificarNumero(12)
 
 ### Ejecución:
 
-```
-El número 12 es mayor que 10.
-El número 12 es par.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%203.png)
 
 ---
 
@@ -178,10 +169,7 @@ verificarNumero(12)
 
 ### Ejecución:
 
-```
-El número 12 es mayor que 10.
-El número 12 NO es divisible entre 5.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%204.png)
 
 ---
 
@@ -230,10 +218,7 @@ sumarNumeros(5, 7)
 
 ### Ejecución:
 
-```
-La suma es: 12
-La suma 12 es par.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%205.png)
 
 ---
 
@@ -287,10 +272,7 @@ esPrimo(13)
 
 ### Ejecución:
 
-```
-El número 13 es primo.
-El número 13 es impar.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%206.png)
 
 ---
 
@@ -329,10 +311,7 @@ filtrarNumerosMayores([1, 3, 5, 6, 8, 10])
 
 ### Ejecución:
 
-```
-Números filtrados: 6,8,10
-La suma de los números filtrados es: 24
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%207.png)
 
 ---
 
@@ -402,8 +381,4 @@ calcularTotal(articulos)
 
 ### Ejecución:
 
-```
-Total del pedido: $80.00
-Stock verificado: suficiente para procesar el pedido.
-Pago procesado por un total de: $80.00
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%202/Ejemplo%208.png)

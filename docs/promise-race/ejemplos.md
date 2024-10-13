@@ -26,9 +26,7 @@ Promise.race([promise1]).then((result) => {
 
 ### Ejecución:
 
-```
-Promesa 1 resuelta después de 2 segundos.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%201.png)
 
 ---
 
@@ -60,9 +58,7 @@ Promise.race([promise1, promise2]).then((result) => {
 
 ### Ejecución:
 
-```
-Promesa 1 (1 segundo).
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%202.png)
 
 ---
 
@@ -104,9 +100,7 @@ Promise.race([promise1, promise2, promise3])
 
 ### Ejecución:
 
-```
-Promesa 2 rechazada
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%203.png)
 
 ---
 
@@ -139,9 +133,7 @@ Promise.race([timerPromise, shortPromise]).then((result) => {
 
 ### Ejecución:
 
-```
-Promesa corta (3 segundos).
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%204.png)
 
 ---
 
@@ -169,9 +161,7 @@ Promise.race(promises).then((result) => {
 
 ### Ejecución:
 
-```
-1 segundo.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%205.png)
 
 ---
 
@@ -203,9 +193,7 @@ Promise.race([loadDataFromAPI, loadDataFromServer]).then((result) => {
 
 ### Ejecución:
 
-```
-Carga de datos desde la API (rápido).
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%206.png)
 
 ---
 
@@ -247,9 +235,7 @@ Promise.race([promise1, promise2, promise3])
 
 ### Ejecución:
 
-```
-Promesa 2 resuelta.
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%207.png)
 
 ---
 
@@ -287,6 +273,4 @@ Promise.race([query1, query2, query3]).then((result) => {
 
 ### Ejecución:
 
-```
-Consulta 3 finalizada (1 segundo).
-```
+![Imagen Introducción](../../static/img/Capturas/Tema%204/Ejemplo%208.png)
