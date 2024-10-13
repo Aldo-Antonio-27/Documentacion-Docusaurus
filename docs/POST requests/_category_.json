@@ -1,0 +1,8 @@
+{
+  "label": "POST request",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Las solicitudes POST se utilizan para enviar datos al servidor, como para crear o actualizar recursos. Se necesita especificar el método como POST y enviar los datos en el cuerpo de la solicitud."
+  }
+}

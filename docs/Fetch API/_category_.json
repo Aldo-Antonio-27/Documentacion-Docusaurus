@@ -1,0 +1,8 @@
+{
+  "label": "Fetch API",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "La Fetch API es una interfaz moderna de JavaScript que permite realizar solicitudes HTTP asíncronas desde el navegador hacia servidores. Reemplaza a la antigua XMLHttpRequest y es más fácil de usar. Utiliza promesas para manejar respuestas de manera asíncrona."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Fetch de Blods",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Un Blob (Binary Large Object) es un objeto de datos binarios, como imágenes o archivos. La Fetch API puede recuperar blobs desde un servidor, lo que permite descargar archivos multimedia o cualquier contenido binario."
+  }
+}
